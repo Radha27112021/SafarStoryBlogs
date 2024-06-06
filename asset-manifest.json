@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Radha27112021/SafarStoryBlogs.git/static/css/main.725886db.css",
+    "main.js": "/Radha27112021/SafarStoryBlogs.git/static/js/main.0bff4892.js",
+    "static/js/453.4140a91b.chunk.js": "/Radha27112021/SafarStoryBlogs.git/static/js/453.4140a91b.chunk.js",
+    "index.html": "/Radha27112021/SafarStoryBlogs.git/index.html",
+    "main.725886db.css.map": "/Radha27112021/SafarStoryBlogs.git/static/css/main.725886db.css.map",
+    "main.0bff4892.js.map": "/Radha27112021/SafarStoryBlogs.git/static/js/main.0bff4892.js.map",
+    "453.4140a91b.chunk.js.map": "/Radha27112021/SafarStoryBlogs.git/static/js/453.4140a91b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.725886db.css",
+    "static/js/main.0bff4892.js"
+  ]
+}
